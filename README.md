@@ -1,5 +1,5 @@
-W205 Final Project
 Andrew Burrage
+W205 Final Project
 
 Open the loading_modeling folder and run the data lake scripts followed by the ddl scripts.
 
