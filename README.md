@@ -7,4 +7,5 @@ Open the transforming folder and run the file within it to transform the data. T
 
 Open the investigations folder and you will find queries that were used to generate the csv files contained within the folder.
 
-Open the R script in the investigations folder to run the analysis for this project. Note: you will need to change the working directory on line 7 to the location of the csv files within the investigations folder.
+Open the R script in the investigations folder to run the analysis for this project. Note: you will need to change the working directory on line 7 to the location of the csv files within the investigations folder. A write up of the R analysis can be found in the pdf titled "ABurrage_R_Crime_Analysis."
+
